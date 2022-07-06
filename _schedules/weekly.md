@@ -21,48 +21,30 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
-      - name: Section 01
-        start: 1:00 PM
-        end: 1:50 PM
-        location: MAK D1-117
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: MAK D2-210
   - name: Tuesday
     events:
-      - name: Meeting minutes due by midnight!
-        start: 9:00 AM
-        end: 10:00 AM
-  - name: Wednesday
-    events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
       - name: Section 01
         start: 1:00 PM
-        end: 1:50 PM
-        location: MAK D1-117
+        end: 2:15 PM
+        location: MAK B2-235
+  - name: Wednesday
+    events:
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: MAK D2-210
   - name: Thursday
-  - name: Friday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
       - name: Section 01
         start: 1:00 PM
-        end: 1:50 PM
-        location: MAK D1-117
+        end: 2:15 PM
+        location: MAK B2-235
+  - name: Friday
+    events:
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM

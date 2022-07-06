@@ -1,14 +1,14 @@
 ---
 layout: home
-title: CIS350 - Software Engineering
+title: CIS367 - Computer Graphics
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Software Engineering
+  name: Computer Graphics
 ---
 
-# CIS350 - Intro to Software Engineering
+# CIS367 - Computer Graphics
 {:.no_toc}
 
 ## Table of contents
@@ -21,31 +21,37 @@ seo:
 
 ## Course Description
 
-* Systems development life cycle from project request through project implementation and evaluation. 
-* Systems analysis and design concepts, tools and techniques are emphasized. 
-* Traditional and structured approaches. 
-* Project management.
+* Principles of computer graphics.
+* I/O devices.
+* Basic graphic primitives and attributes.
+* Transformations: translation, scaling, and rotation.
+* World and screen coordinates, windows and viewports, clipping.
+* Circle drawing. 
+* Graphics and text modes. 
+* Raster graphics. 
+* Filling algorithms. 
+* 3-D graphics. 
+* Hidden line/surface elimination.
 
 ---
 
 ## Learning Objectives
 
-Software Engineering of computer-based information systems deals with technologies, notations, tools, and procedures to improve both the process of software development and the resulting products. Software requirements analysis, design, testing, and metrics are emphasized.  Please take note: this course no longer satisfies the SWS (Supplemental Writing Skills) requirement and is not an SWS course. 
+Computer graphics play a key role in many applications, from video games to advanced medical simulations. This course provides an introduction to the theory and application of computer graphics programming in both 2D and 3D. Students will use WebGL and Unity in several programming projects that will provide experience in graphics programming topics such as drawing, collision detection, user interaction, and texturing. An emphasis on practical experience with graphics concepts will be emphasized.
 
 Specifically, students will:
-* Describe the phases, activities, advantages, and limitations of major software development life cycle models.
-* Be able to learn and apply requirements, analysis, and design techniques.
-* Use UML diagrams to specify static and dynamic aspects of software systems.
-* Apply project management techniques and tools (such as COCOMO, Earned Value Analysis) to estimate effort, schedule, and measure project progress indicators.
-* Apply black-box and white-box software testing techniques.
-* Demonstrate an understanding of social, legal, ethical, and global issues in computing.
-* Write a technical report utilizing consistent formatting and citation guidelines.
+
+* Create images of 3D objects using a standard graphics API
+* Use a standard API to apply basic transformations (scaling, rotation, translation) to 3D objects
+* Develop programs that use multiple 3D coordinate frames for controlling different parts of a 3D object
+* Describe the techniques used for hidden-surface removal
+* Demonstrate the results of clipping algorithms between lines and polygons
 
 ---
 
 ## Lecture
 
-Class meets 3 times a week in person.  Typically class will comprise a lecture with some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
+Class meets 2 times a week in person.  Typically class will comprise a lecture with some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
 
 **Note**: I will not accept late in-class assignment submissions - no exceptions.
 
@@ -53,7 +59,7 @@ Class meets 3 times a week in person.  Typically class will comprise a lecture w
 
 ## Term Project
 
-There will be a semester-long team-based term project.  Check out the [term projects page](term-projects) for more details.
+There will be a 1/2 semester-long term project (individual or team, your choice).  Check out the [term projects page](term-projects) for more details.
 
 ---
 
@@ -61,7 +67,7 @@ There will be a semester-long team-based term project.  Check out the [term proj
 
 All assignments are due by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
 
-* Individual and team assignment late penalty: 10% per day (including weekends)
+* Assignment late penalty: 10% per day (including weekends)
 * Late in-class assignment submissions are **not accepted**
 
 ### Submissions
@@ -75,12 +81,17 @@ All assignments are due by 11:59pm on the date they are due.  Please check Black
 
 Here are a list of resources I've collected that might help out.
 
-### Modeling Tools
+### WebGL
 
-Unless you have access to Visio or OmniGraffle, here are some suggestions for open-source (i.e., "free") UML modeling tools.
+* TBD
 
-* [diagrams.net (formerly DrawIO)](https://app.diagrams.net/){:target="_blank"}
-* [Papyrus (Eclipse plugin)](http://www.eclipse.org/papyrus/){:target="_blank"}
+### Blender
+
+* [Blender 3 - Complete Beginner's Guide](https://youtu.be/jnj2BL4chaQ)
+
+### Unity
+
+* TBD
 
 ### Git/GitHub-Related
 
@@ -91,8 +102,3 @@ Unless you have access to Visio or OmniGraffle, here are some suggestions for op
 * [A Simple GitHub Tutorial](https://old.benjaminashbaugh.me/code/simple-git-github-tutorial){:target="_blank"}
 * [Basic Git Commands (c/o Dr. Dowling)](https://docs.google.com/document/d/1uy1sltx6kQiiIRy_UdUoZsQknsmrcQjJGbfvhCCsK7Y/edit){:target="_blank"}
 * [Git Tutorial (c/o Dr. Dowling)](https://docs.google.com/document/d/10EARJZhLLDXspfl4g1P3SS2zbHTWR1ru9ppP3W-NaT4/edit){:target="_blank"}
-
-### Other
-
-* [Bitsy - Interactive Syllabus](https://efredericks.github.io/CIS-three-fitsy/){:target="_blank"}
-* [Team Communication](https://asana.com/resources/team-communication){:target="_blank"}

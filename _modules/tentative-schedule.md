@@ -1,52 +1,54 @@
 ---
-title: Modules for CIS350 - Intro. to Software Engineering
+title: Modules for CIS367 - Computer Graphics
 ---
 
 1
 : [Introduction](../assets/slides/CIS350-1-Introduction.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-1-Introduction.pdf){:target="_blank"}
+: - Setup
+: - Basic program
+: - Another demo
 
 2
-: [Ethics](#)
+: [Image Models and Triangles](#)
   : [Slides](#) 
 
-
 3
-: [Software Process Models](#)
+: [Full Program](#)
   : [Slides](#)
 
 4
-: [Configuration Management](#)
+: [Shaders](#)
   : [Slides](#)
 
 5
-: [Specification](#)
+: [Interaction and Animation](#)
   : [Slides](#)
 
 6
-: [Project Management](#)
+: [Geometry and Transforms](#)
   : [Slides](#)
 
 7
-: [Unified Modeling Language (UML)](#)
+: [Model Building and Camera](#)
   : [Slides](#)
 
 8
-: [Object-Oriented Analysis and Design](#)
+: [Blender Overview](#)
   : [Slides](#)
 
 9
-: [Design Patterns](#)
+: [Introduction to Unity](#)
   : [Slides](#)
 
 10
-: [Verification and Validation](#)
+: [Unity Scripting](#)
   : [Slides](#)
 
 11
-: [System Building](#)
+: [Unity 2D](#)
   : [Slides](#)
 
 12
-: [Remaining Material](#)
+: [Git + Shader Graph](#)
   : [Slides](#)
