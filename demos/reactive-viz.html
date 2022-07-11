@@ -48,9 +48,10 @@
 </script>
 
 <body>
-  <div id="Spectrogram"></div>
+  <div id="Spectrogram">
+    <h1>click me then talk!</h1>
+  </div>
   <script src="./libraries/threejs/three.min.js"></script>
-  <script src="./libraries/threejs/VertexNormalsHelper.js"></script>
   <script>
     let first_click = true;
     document.addEventListener("click", function () {
@@ -164,6 +165,7 @@
           renderer.setPixelRatio(window.devicePixelRatio);
           renderer.setSize(window.innerWidth, window.innerHeight);
           let container = document.getElementById('Spectrogram');
+          container.innerHTML = "";
           container.appendChild(renderer.domElement);
 
           // Doesn't appear to work in three.js anymore!
