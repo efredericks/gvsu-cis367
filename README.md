@@ -83,7 +83,8 @@ Here are a list of resources I've collected that might help out.
 
 ### WebGL
 
-* TBD
+* [JavaScript Primer](https://cs.wellesley.edu/~cs307/readings/JavaScript-crash-course.html){:target="_blank"}
+* [Discover Three.js](https://discoverthreejs.com/){:target="_blank"}
 
 ### Blender
 
@@ -95,6 +96,7 @@ Here are a list of resources I've collected that might help out.
 
 ### Git/GitHub-Related
 
+* [GitHub Pages guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank"}
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/){:target="_blank"}
 * [Git Guide](https://github.com/git-guides){:target="_blank"}
 * [Git Book](https://git-scm.com/book/en/v2/){:target="_blank"}
