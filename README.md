@@ -85,6 +85,7 @@ Here are a list of resources I've collected that might help out.
 
 * [JavaScript Primer](https://cs.wellesley.edu/~cs307/readings/JavaScript-crash-course.html){:target="_blank"}
 * [Discover Three.js](https://discoverthreejs.com/){:target="_blank"}
+* [The Book of Shaders](https://thebookofshaders.com/){:target="_blank"}
 
 ### Blender
 
@@ -104,3 +105,8 @@ Here are a list of resources I've collected that might help out.
 * [A Simple GitHub Tutorial](https://old.benjaminashbaugh.me/code/simple-git-github-tutorial){:target="_blank"}
 * [Basic Git Commands (c/o Dr. Dowling)](https://docs.google.com/document/d/1uy1sltx6kQiiIRy_UdUoZsQknsmrcQjJGbfvhCCsK7Y/edit){:target="_blank"}
 * [Git Tutorial (c/o Dr. Dowling)](https://docs.google.com/document/d/10EARJZhLLDXspfl4g1P3SS2zbHTWR1ru9ppP3W-NaT4/edit){:target="_blank"}
+
+### Interesting Other Links
+
+* [Cables.gl](https://cables.gl/){:target="_blank"} -- Node-based rendering on the web
+* [The Coding Train](https://thecodingtrain.com/){:target="_blank"} -- P5.js/Processing tutorials
