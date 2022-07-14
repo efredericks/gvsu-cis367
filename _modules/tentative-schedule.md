@@ -6,8 +6,8 @@ title: Modules for CIS367 - Computer Graphics
 : [Introduction](../assets/slides/CIS350-1-Introduction.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS350-1-Introduction.pdf){:target="_blank"}
 : - Setup
-: - Basic program
-: - Another demo
+: - [Hello world - basic](../demos/hello-world-basic.html){:target="_blank"}
+: - [Hello world - 2D (static triangle)](../demos/hello-world-triangle.html){:target="_blank"}
 
 2
 : [Image Models and Triangles](#)
