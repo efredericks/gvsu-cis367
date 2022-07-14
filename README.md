@@ -86,6 +86,7 @@ Here are a list of resources I've collected that might help out.
 * [JavaScript Primer](https://cs.wellesley.edu/~cs307/readings/JavaScript-crash-course.html){:target="_blank"}
 * [Discover Three.js](https://discoverthreejs.com/){:target="_blank"}
 * [The Book of Shaders](https://thebookofshaders.com/){:target="_blank"}
+* [NeHe (WebGL)](http://www.johannes-raida.de/tutorials.htm){:target="_blank"} (note: a lot of the API calls here are out of date!)
 
 ### Blender
 
@@ -110,3 +111,4 @@ Here are a list of resources I've collected that might help out.
 
 * [Cables.gl](https://cables.gl/){:target="_blank"} -- Node-based rendering on the web
 * [The Coding Train](https://thecodingtrain.com/){:target="_blank"} -- P5.js/Processing tutorials
+* [Moving from Three.js Geometry to BufferGeometry](https://sbcode.net/threejs/geometry-to-buffergeometry/){:target="_blank"}

@@ -15,7 +15,8 @@ This page aggregates all demos shown in class.  A lot of these demos will be liv
 
 ## WebGL Demos
 
-* [Hello world](hello-world.html){:target="_blank"}
+* [Hello world - 2D (triangle)](hello-world-triangle.html){:target="_blank"}
+* [Hello world - 3D (rotating cube)](hello-world-cube.html){:target="_blank"}
 
 ---
 
