@@ -7,7 +7,7 @@
 <html>
 
 <head>
-  <title>WebGL Demo - Voronoi</title>
+  <title>WebGL Demo - Voronoi (Full)</title>
   <meta charset="utf-8">
   <style>
     body {
@@ -21,9 +21,9 @@
   <!-- shaders -->
   <script type="x-shader/x-vertex" id="vertexShader">
     void main() {
-      //gl_Position = vec4(position, 1.0);
-      vec4 modelViewPosition = modelViewMatrix * vec4(position, 1.0);
-      gl_Position = projectionMatrix * modelViewPosition;
+      gl_Position = vec4(position, 1.0);
+      //vec4 modelViewPosition = modelViewMatrix * vec4(position, 1.0);
+      //gl_Position = projectionMatrix * modelViewPosition;
     }
   </script>
   <script type="x-shader/x-fragment" id="fragmentShader">
@@ -31,36 +31,51 @@
     uniform vec2 u_mouse;
     uniform float u_time;
 
+    vec2 random2( vec2 p ) {
+      return fract(
+        sin(vec2(dot(p, vec2(127.1, 311.7)), 
+        dot(p, vec2(269.5, 183.3)))) * 43758.5453);
+    }
+
     void main() {
       vec2 st = gl_FragCoord.xy/u_resolution.xy;
       st.x *= u_resolution.x/u_resolution.y;
 
       vec3 color = vec3(.0);
 
-      // Cell positions
-      vec2 point[5];
-      point[0] = vec2(0.83,0.75);
-      point[1] = vec2(0.60,0.07);
-      point[2] = vec2(0.28,0.64);
-      point[3] =  vec2(0.31,0.26);
-      point[4] = vec2(u_time/u_resolution.x, u_time/u_resolution.y);//u_mouse/u_resolution;
+      // cell positions
+      vec2 points[5];
+      points[0] = vec2(0.83,0.75);
+      points[1] = vec2(0.60,0.07);
+      points[2] = vec2(0.28,0.64);
+      points[3] =  vec2(0.31,0.26);
+      points[4] = vec2(u_mouse.x+0.5, u_mouse.y);
 
       float m_dist = 1.;  // minimum distance
+      vec2 m_point;
 
       // Iterate through the points positions
       for (int i = 0; i < 5; i++) {
-          float dist = distance(st, point[i]);
+          float dist = distance(st, points[i]);
+
+          // keep closer distance
+          if (dist < m_dist) {
+            m_dist = dist;
+            m_point = points[i];
+          }
 
           // Keep the closer distance
           m_dist = min(m_dist, dist);
       }
 
       // Draw the min distance (distance field)
-      color += m_dist;
+      color += m_dist*2.0;
+      color.rg = m_point;
 
-      // Show isolines
-      // color -= step(.7,abs(sin(50.0*m_dist)))*.3;
+      // isolines
+      //color -= abs(sin(80.0 * m_dist)) * 0.07;
 
+      //color += 1.0 - step(0.02, m_dist);
       gl_FragColor = vec4(color,1.0);
     }
   </script>
@@ -119,6 +134,7 @@
 
     onWindowResize();
     window.addEventListener('resize', onWindowResize, false);
+    renderer.domElement.addEventListener('mousemove', onDocumentMouseMove, false);
   }
 
   function animate() {
@@ -137,9 +153,19 @@
     uniforms.u_resolution.value.y = renderer.domElement.height;
   }
 
-  document.onmousemove = function (e) {
-    uniforms.u_mouse.value.x = (e.clientX / window.innerWidth) * 2 - 1;//e.pageX / window.innerWidth;
-    uniforms.u_mouse.value.y = -(e.clientY / window.innerHeight) * 2 + 1;//e.pageY / window.innerHeight;
+  // document.onmousemove = function (e) {
+  function onDocumentMouseMove(e) {
+    /*
+    let worldPoint = new THREE.Vector3();
+    worldPoint.x = (e.offsetX / window.innerWidth) * 2 - 1;//e.pageX / window.innerWidth;
+    worldPoint.y = -(e.offsetY / window.innerHeight) * 2 + 1;//e.pageY / window.innerHeight;
+    worldPoint.z = 0;
+    worldPoint.unproject(camera);
+    */
+
+
+    uniforms.u_mouse.value.x = (e.offsetX / window.innerWidth) * 2 - 1;//e.pageX / window.innerWidth;
+    uniforms.u_mouse.value.y = -(e.offsetY / window.innerHeight) * 2 + 1;//e.pageY / window.innerHeight;
   }
 
 </script>
