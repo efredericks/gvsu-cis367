@@ -43,7 +43,7 @@
       point[1] = vec2(0.60,0.07);
       point[2] = vec2(0.28,0.64);
       point[3] =  vec2(0.31,0.26);
-      point[4] = vec2(u_mouse.x+0.5, u_mouse.y);//u_mouse;//vec2(u_time/u_resolution.x, u_time/u_resolution.y);//u_mouse/u_resolution;
+      point[4] = u_mouse;//vec2(u_mouse.x, -u_mouse.y);//u_mouse;//vec2(u_time/u_resolution.x, u_time/u_resolution.y);//u_mouse/u_resolution;
 
       float m_dist = 1.;  // minimum distance
 
@@ -83,10 +83,10 @@
     camera.position.z = 1;
     /*
     camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 100);
-    camera.position.set(0, 0, 3);
+    camera.position.set(0, 0, 1);
+    */
     camera.lookAt(scene.position);
     scene.add(camera);
-    */
 
     renderer = new THREE.WebGLRenderer({ antialias: true });
     renderer.setClearColor(0x000000, 1);
@@ -138,19 +138,10 @@
     uniforms.u_resolution.value.y = renderer.domElement.height;
   }
 
-  // document.onmousemove = function (e) {
   function onDocumentMouseMove(e) {
-    /*
-    let worldPoint = new THREE.Vector3();
-    worldPoint.x = (e.offsetX / window.innerWidth) * 2 - 1;//e.pageX / window.innerWidth;
-    worldPoint.y = -(e.offsetY / window.innerHeight) * 2 + 1;//e.pageY / window.innerHeight;
-    worldPoint.z = 0;
-    worldPoint.unproject(camera);
-    */
-
-
-    uniforms.u_mouse.value.x = (e.offsetX / window.innerWidth) * 2 - 1;//e.pageX / window.innerWidth;
-    uniforms.u_mouse.value.y = -(e.offsetY / window.innerHeight) * 2 + 1;//e.pageY / window.innerHeight;
+    const vpRatio = window.innerWidth / window.innerHeight;
+    uniforms.u_mouse.value.x = (e.offsetX / window.innerWidth) * vpRatio;
+    uniforms.u_mouse.value.y = 1.0-(e.offsetY / window.innerHeight);
   }
 
 </script>
