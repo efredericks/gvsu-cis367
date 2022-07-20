@@ -53,6 +53,10 @@ One thing with the WebGL demos is that, depending on which libraries you need fr
 
 ### Generative
 
+* [Voronoi](voronoi.html){:target="_blank"}
+  * Based on this tutorial: [Cellular Noise](https://thebookofshaders.com/12/){:target="_blank"}
+* [Metaballs](metaballs.html){:target="_blank"}
+  * Based on this tutorial: [Metaballs and WebGL](http://jamie-wong.com/2016/07/06/metaballs-and-webgl/){:target="_blank"}
 * [Reactive audio visualizer](reactive-viz.html){:target="_blank"} 
     * Based on this tutorial: [Creating an Interactive Spectrogram With Three.js and GLSL Shaders](https://calebgannon.com/2021/01/09/spectrogram-with-three-js-and-glsl-shaders/){:target="_blank"}
 

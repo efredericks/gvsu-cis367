@@ -87,10 +87,13 @@ Here are a list of resources I've collected that might help out.
 * [Discover Three.js](https://discoverthreejs.com/){:target="_blank"}
 * [The Book of Shaders](https://thebookofshaders.com/){:target="_blank"}
 * [NeHe (WebGL)](http://www.johannes-raida.de/tutorials.htm){:target="_blank"} (note: a lot of the API calls here are out of date!)
+* [Adding GLSL Shaders to Three.js](https://dev.to/maniflames/creating-a-custom-shader-in-threejs-3bhi){:target="_blank"}
 
 ### Blender
 
-* [Blender 3 - Complete Beginner's Guide](https://youtu.be/jnj2BL4chaQ)
+* [Blender 3 - Complete Beginner's Guide](https://youtu.be/jnj2BL4chaQ){:target="_blank"}
+* [Blender Keybindings (may be out of date)](https://download.blender.org/documentation/BlenderHotkeyReference.pdf){:target="_blank"}
+* [Blender Keybindings](https://tekshinobi.com/blender-key-bindings/){:target="_blank"}
 
 ### Unity
 
