@@ -17,10 +17,11 @@ This page aggregates all demos shown in class.  A lot of these demos will be liv
 
 One thing with the WebGL demos is that, depending on which libraries you need from three.js, you might see a different setup.  For instance, the 'simple' demos I just load three.js in via a call to `<script src="./libraries/threejs/three.min.js"></script>`, whereas others use ES6 module-style loading.
 
+## 1 - Introduction
+
 * [Hello world - basic](hello-world-basic.html){:target="_blank"}
-* [Hello world - 2D (static triangle)](hello-world-triangle.html){:target="_blank"}
-* [Hello world - 2D (rotating triangle)](hello-world-triangle-rotate.html){:target="_blank"}
-* [Hello world - 3D (rotating cube)](hello-world-cube.html){:target="_blank"}
+* [Hello world - triangle](triangle.html){:target="_blank"}
+
 
 ---
 
@@ -50,6 +51,12 @@ One thing with the WebGL demos is that, depending on which libraries you need fr
 * three.js + Blender
 
 --- 
+
+## Three.js Demos
+
+* [Hello world - 2D (triangle)](hello-world-triangle.html){:target="_blank"}
+* [Hello world - 2D (rotating triangle)](hello-world-triangle-rotate.html){:target="_blank"}
+* [Hello world - 3D (rotating cube)](hello-world-cube.html){:target="_blank"}
 
 ### Generative
 
