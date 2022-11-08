@@ -9,13 +9,13 @@ description: >-
 
 This page aggregates all demos shown in class.  A lot of these demos will be live coded in class to varying levels of success - these are the "working" versions of what is intended to be shown.
 
-**Note**: these will mainly use the Three.js library - please see the [setup guide](setup.md) for how to get up and running with a local development environment!
+**Note**: these will mainly use the libraries from the Angel textbook - please see the [setup guide](setup.md) for how to get up and running with a local development environment!  
 
 ---
 
 ## WebGL Demos
 
-One thing with the WebGL demos is that, depending on which libraries you need from three.js, you might see a different setup.  For instance, the 'simple' demos I just load three.js in via a call to `<script src="./libraries/threejs/three.min.js"></script>`, whereas others use ES6 module-style loading.
+These are all the WebGL-specific demos from class.  You can translate them to other libraries (e.g., three.js) - however they require some effort.  I have a few of the basics at the bottom of this page to get you started if you'd like to explore.
 
 ## 1 - Introduction
 
