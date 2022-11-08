@@ -2,7 +2,7 @@
 title: Modules for CIS367 - Computer Graphics
 ---
 
-*Note: see the [demos](/demos) page for in-class demonstration code.*
+*Note: see the [demos](demos) page for in-class demonstration code.*
 
 1
 : [Introduction](../assets/slides/CIS367-1-Introduction.pdf){:target="_blank"}
