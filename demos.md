@@ -22,9 +22,9 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 * [Hello world - basic](hello-world-basic.html){:target="\_blank"}
 * [Hello world - triangle](triangle.html){:target="\_blank"}
 
-
 ---
 
+<!--
 *in progress*
 
 * Colors
@@ -51,6 +51,7 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 * three.js + Blender
 
 --- 
+-->
 
 ## Three.js Demos
 
