@@ -94,6 +94,7 @@ Here are a list of resources I've collected that might help out.
 * [Blender 3 - Complete Beginner's Guide](https://youtu.be/jnj2BL4chaQ){:target="_blank"}
 * [Blender Keybindings (may be out of date)](https://download.blender.org/documentation/BlenderHotkeyReference.pdf){:target="_blank"}
 * [Blender Keybindings](https://tekshinobi.com/blender-key-bindings/){:target="_blank"}
+* [Blender 2D topdown camera view](https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view){:target="_blank"}
 
 ### Unity
 
