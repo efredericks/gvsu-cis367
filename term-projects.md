@@ -38,12 +38,12 @@ Next are some past examples of term projects to get your ideas percolating:
 
 * Walking simulator with procedurally-generated environments
 * 3D bow and arrow target practice
-* Day/night cycle
 * Fluid simulations
 * Galaxy simulation
 * Music visualizer
 * 3D art reproduction
 * Raycasting engine (classic Doom style)
+* Crystal rendering
 
 Examples from other classes:
 
