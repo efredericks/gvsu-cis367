@@ -19,6 +19,70 @@ This page lists out the setup guides for the tools used in class - the tricky on
 
 ---
 
+All you need for this class is a text editor and a modern browser. I will be using VSCode and Chrome (Firefox has been laggy lately with WebGL for some reason), however feel free to use whichever WebGL-enabled browser you wish. If you are looking for a modern IDE that supports JavaScript, consider VSCode, JetBrains (should be free via student educational discount), or Brackets.
+
+## Angel libraries (local)
+
+Here is the [book's webpage](https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SEVENTH_EDITION/){:target="\_blank"}.  You can directly get the library files from the [GitHub page](https://github.com/esangel/WebGL/tree/master/Common){:target="\_blank"}.
+
+You mainly just need to ensure that your libraries are in a common location to all your other files and are easily referenced.  If you wish you can run a local web server, though that is only necessary if you are loading in assets.  In this case, you can add the [Live Server extension to VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer){:target="\_blank"} (what I use). 
+
+Alternatively, you can use Python's built-in web server by calling:
+
+`python3 -m http.server`
+
+This assumes that Python is installed, is referenced as `python3`, and that you're calling it on your local terminal.  See [this page](https://docs.python.org/3/library/http.server.html){:target="\_blank"} for details.  By default, it will run on port 8000.
+
+You could also try [WAMP](https://www.wampserver.com/en/){:target="\_blank"} or [MAMP](https://www.mamp.info/en/downloads/){:target="\_blank"} as well, if you want to install a program for Windows or Mac, respectively.
+
+**Regardless**, you'll need to setup your folder structure to reference the libraries.  I recommend a structure like this:
+
+```
++ CIS367
+  + libraries
+    + Common
+      - MV.js
+      - MV2.js
+      - README.txt
+      - initShaders.js
+      - initShaders2.js
+      - webgl-utils.js  
+  + hw1
+    - hw1-mylastname.html
+    - hw1-mylastname.js
+  + hw2
+    - hw2-mylastname.html
+    - hw2-mylastname.js
+  ...
+```
+
+Now, if you're editing hw1-mylastname.html, it should look like this:
+
+```html
+<!DOCTYPE html>
+<html>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+  <title>HW title</title>
+
+  <script id="vertex-shader" type="x-shader/x-vertex">
+    // vertex shader code
+  </script>
+
+  <script id="fragment-shader" type="x-shader/x-fragment">
+    // fragment shader code
+  </script>
+
+  <script type="text/javascript" src="../libraries/Common/webgl-utils.js"></script>
+  <script type="text/javascript" src="../libraries/Common/initShaders.js"></script>
+  <script type="text/javascript" src="../libraries/Common/MV.js"></script>
+  <script type="text/javascript" src="hw1-mylastname-script.js"></script>
+</head>
+...
+</html>
+```
+
+You *should* be able to just open `hw1-mylastname.html` directly in your browser.
+
 ## Three.js (local)
 
 There are two main considerations when running three.js locally.  
@@ -32,12 +96,6 @@ There are two main considerations when running three.js locally.
 This occurs because of cross-site scripting protection that browsers enact to keep you safe (mainly to avoid malicious web sites from loading in things that shouldn't be loaded).  Most of what we'll be doing will be (2) - no web server needed.  You write your JavaScript/shader code and just open the HTML file in your browser.
 
 **Note**: you will need to move your code to a public web server (e.g., your EOS web space, GitHub pages, etc.) for grading and/or sharing.
-
-
-
-## Three.js (remote)
-
-TBD for when we get our intranet pages back.
 
 ### Lessons Learned (gotchas)
 
@@ -63,9 +121,3 @@ Download the [Blender installer](https://www.blender.org/download/){:target="_bl
 ## Unity
 
 Download the [Unity installer](https://store.unity.com/#plans-individual){:target="_blank"} and install as specified.  Note - you'll need to sign up for a **Student** account.  This is free as long as you're not making a specific amount of money on your projects.
-
-### VSCode Integration
-
-Unity scripting is much easier when you setup a local environment to develop your scripts in.  I like VSCode though you might prefer something else (Vim, Notepad++, Sublime, etc.).  The steps should be similar, however you might need to search out a guide for your particular editor of fancy.
-
-1. Step 1 TBD

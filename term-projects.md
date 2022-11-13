@@ -15,29 +15,37 @@ description: >-
 1. TOC
 {:toc}
 
-One thing to keep in mind is that I will be keeping an eye on your commit history, watching your interactions, keeping tabs, etc.  Ensure that you put in an equal amount of effort!  If you are the type of student that lets your team members do all the work, expect your grade to be scaled appropriately.
+Your **overall task** is to create a functioning prototype of something graphics-related.  Note that this is about a *half*-term project.  If you wish to start at the very beginning of the class because you want to use this as an excuse to build something really incredible feel free to chat with me when you have a thought.
 
-Your **overall task** is to create a functioning product that uses the software engineering techniques we talk about in class.  Your project deliverables will approximately follow what we're talking about in class.
+Project teams can be from 1 to 4 people.
 
 ---
 
 ## Project Responsibilities
 
-1. Form a project team and decide on your project
-2. Setup a GitHub repository for your team (you'll fork my [starter repository](https://github.com/gvsu-cis350/base))
-  * At this point, you will start having weekly meetings **and** checking in your minutes to your repository
-3. Create Use Cases for your project
-4. Create a Software Requirements Specification
-5. Develop a functioning prototype // minimum viable product
-6. Present your progress about halfway through the semester
-7. Present your final product at the end of the semester
-8. Evaluate your teammates at the end of the semester
+1. Form a project team (if desired) and decide on your project
+2. Develop a project proposal
+3. Provide updates as requested
+4. Deliver a final presentation and demonstration (last week of class)
 
 ---
 
 ## Project Examples
 
-Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  Note: you can use *whatever* language you want.  Feel free to use pre-existing libraries and/or development environments (e.g., Unity, Godot, RPGMaker, etc.) to get you going - the focus is on the **process**.  However, if you have no pre-defined expectations of what you want to work on then this list may be helpful to get you thinking:
+Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  Note: you can use *whatever* language or environment you want. You are welcome to do nifty things in WebGL, Unity, Blender, etc.  You are also welcome to go beyond if you want (Godot, Shadertoy, Unreal Engine, etc.).  If you do choose to use a different framework please get approval first to ensure it fits with the class.
+
+Next are some past examples of term projects to get your ideas percolating:
+
+* Walking simulator with procedurally-generated environments
+* 3D bow and arrow target practice
+* Day/night cycle
+* Fluid simulations
+* Galaxy simulation
+* Music visualizer
+* 3D art reproduction
+* Raycasting engine (classic Doom style)
+
+Examples from other classes:
 
 ### Games
 
@@ -51,15 +59,6 @@ Your team has the option to choose whatever project you wish to work on (pending
 * Interactive fiction
 * 1st-person horror VR 
 
-### Non-games
-
-* Crypto tracker
-* Cloud-based pentesting suite
-* Disc golf finder (Arduino + RFID)
-* Sensor monitor (Rasperry Pi + sensors + display)
-* Fitness tracker
-* Hiking tracker
-
 ---
 
 ## Project Tips
@@ -69,14 +68,8 @@ Your team has the option to choose whatever project you wish to work on (pending
 * Be proud of what you've worked on - ideally this will be part of your project portfolio that you can show off to future employers.
 * If you are using starter code, libraries, tutorials, etc., ensure that you cite your source in your project documentation.
 * **DO NOT** simply clone/copy someone else's project (either from this class or the Internet) and call it your own without significant iteration.  For example, you can use the Unity tutorials or microgame starters as long as you **significantly extend** them.
-* Keep up with your weekly meetings and keep in contact with your teammates.  If you wait until a deadline it is going to be *significantly* more stressful than if you make progress throughout the semester.
-* I will not be micromanaging your projects - that is up to your teams.  If you are not making appropriate progress then that will be reflected in your grade!
 
 ---
-
-## Weekly Meetings
-
-Each week your team is required to meet (except where otherwise noted) and to create and submit a Meeting Minutes document.  I have a [template](https://github.com/gvsu-cis350/base/tree/master/meetings) in the project start repository for you to fill out.  Ensure you check in your minutes by each week's due date.
 
 ## Team Member Issues
 
