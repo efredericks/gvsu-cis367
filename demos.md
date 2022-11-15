@@ -75,7 +75,7 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 
 ### Set camera to top-down 2D view
 
-* c/o: https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view
+*c/o: [Blender StackExchange](https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view){:target="\_blank"}*
 
 1. Select camera in scene heirarchy
 2. `Alt+g` (reset position)
