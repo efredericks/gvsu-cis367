@@ -73,6 +73,15 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 
 ## Blender Demos
 
+### Set camera to top-down 2D view
+
+* c/o: https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view
+
+1. Select camera in scene heirarchy
+2. `Alt+g` (reset position)
+3. `Alt+r` (reset rotation)
+4. `g+z` (move along z-axis)
+
 ## Unity Demos
 
 ## Old Demos
