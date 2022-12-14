@@ -11,12 +11,8 @@ title: Important Dates - Winter 2023
   : Spring break
 
 {: .label .label-red } Exam
-: February 21
-  : Midterm exam
-
-{: .label .label-purple } Deliverable
 : February 23
-  : Term project status updates
+  : Midterm exam
 
 {: .label .label-purple } Deliverable
 : April 18 and 20
