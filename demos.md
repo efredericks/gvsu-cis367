@@ -27,6 +27,9 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 <!--
 *in progress*
 
+* [Metaballs](metaballs.html){:target="\_blank"}
+  * Based on this tutorial: [Metaballs and WebGL](http://jamie-wong.com/2016/07/06/metaballs-and-webgl/){:target="\_blank"}
+
 * Colors
 * Cameras and lighting
 * Primitives
@@ -66,10 +69,6 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
   * [Voronoi - Sine](voronoi-sin.html){:target="\_blank"}
   * [Voronoi - Full](voronoi-full.html){:target="\_blank"}
     * Based on this tutorial: [Cellular Noise](https://thebookofshaders.com/12/){:target="\_blank"}
-<!--
-* [Metaballs](metaballs.html){:target="\_blank"}
-  * Based on this tutorial: [Metaballs and WebGL](http://jamie-wong.com/2016/07/06/metaballs-and-webgl/){:target="\_blank"}
--->
 * [Reactive audio visualizer](reactive-viz.html){:target="\_blank"} 
     * Based on this tutorial: [Creating an Interactive Spectrogram With Three.js and GLSL Shaders](https://calebgannon.com/2021/01/09/spectrogram-with-three-js-and-glsl-shaders/){:target="\_blank"}
 
