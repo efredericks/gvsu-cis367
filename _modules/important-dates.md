@@ -23,5 +23,5 @@ title: Important Dates - Winter 2023
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: April TBD @ TBDpm
+: April 25 @ 12:00pm - 1:50pm
   : Final exam
