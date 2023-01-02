@@ -95,7 +95,7 @@ Here are a list of resources I've collected that might help out.
 * [Blender Keybindings (may be out of date)](https://download.blender.org/documentation/BlenderHotkeyReference.pdf){:target="_blank"}
 * [Blender Keybindings](https://tekshinobi.com/blender-key-bindings/){:target="_blank"}
 * [Blender 2D topdown camera view](https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view){:target="_blank"}
-* [Blender Liquid (from ocean/shrinkwrap modifiers](https://www.reddit.com/r/blender/comments/zzj35t/how_to_make_real_time_liquid/){:target="_blank"}
+* [Blender Liquid (from ocean/shrinkwrap modifiers)](https://www.reddit.com/r/blender/comments/zzj35t/how_to_make_real_time_liquid/){:target="_blank"}
 
 ### Unity
 
