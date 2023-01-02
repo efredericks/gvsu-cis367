@@ -38,7 +38,7 @@ Next are some past examples of term projects to get your ideas percolating:
 
 * Walking simulator with procedurally-generated environments
 * 3D bow and arrow target practice
-* Fluid simulations
+* Fluid simulations (with significant effort)
 * Galaxy simulation
 * Music visualizer
 * 3D art reproduction
