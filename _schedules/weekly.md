@@ -36,7 +36,7 @@ schedule:
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
-        location: MAK D2-210
+        location: Zoom
   - name: Thursday
     events:
       - name: Section 01
