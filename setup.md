@@ -95,7 +95,9 @@ There are two main considerations when running three.js locally.
 
 This occurs because of cross-site scripting protection that browsers enact to keep you safe (mainly to avoid malicious web sites from loading in things that shouldn't be loaded).  Most of what we'll be doing will be (2) - no web server needed.  You write your JavaScript/shader code and just open the HTML file in your browser.
 
+<s>
 **Note**: you will need to move your code to a public web server (e.g., your EOS web space, GitHub pages, etc.) for grading and/or sharing.
+</s>
 
 ### Lessons Learned (gotchas)
 
