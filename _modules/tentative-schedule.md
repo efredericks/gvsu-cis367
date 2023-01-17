@@ -9,8 +9,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-1-Introduction.pdf){:target="_blank"}
 
 2
-: Image Models and Triangles
-  : Slides
+: [Image Models and Triangles](../assets/slides/CIS367-2-Image-Models.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-2-Image-Models.pdf){:target="_blank"}
 
 3
 : Full Program
