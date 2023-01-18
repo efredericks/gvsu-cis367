@@ -45,7 +45,7 @@ function render() {
   gl.clear( gl.COLOR_BUFFER_BIT );
 
 // uncomment one of these to see behavior
-//  gl.drawArrays( gl.TRIANGLE_FAN, 0, 4 );
+ gl.drawArrays( gl.TRIANGLE_FAN, 0, 4 );
 //  gl.drawArrays( gl.TRIANGLES, 0, 6 );
 //  gl.drawArrays( gl.TRIANGLE_STRIP, 0, 4 );
 //  gl.drawArrays(gl.LINE_STRIP, 0, 4);
