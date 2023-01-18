@@ -21,6 +21,7 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 
 * [Hello world - basic](hello-world-basic.html){:target="\_blank"}
 * [Hello world - triangle](triangle.html){:target="\_blank"}
+* [Square with different primitives](square.html){:target="\_blank"}
 
 ---
 
