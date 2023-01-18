@@ -54,8 +54,8 @@ window.onload = function init()
     gl.clearColor( 1.0, 1.0, 1.0, 1.0 );
 
     //  Load shaders and initialize attribute buffers
-    var program = initShaders( gl, "shaders/vshader21.glsl",
-                               "shaders/fshader21.glsl" );
+    var program = initShaders( gl, "./shaders/vshader21.glsl",
+                               "./shaders/fshader21.glsl" );
     gl.useProgram( program );
 
     // Load the data into the GPU
