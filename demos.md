@@ -23,7 +23,6 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 * [Hello world - triangle](triangle.html){:target="\_blank"}
 * [Square with different primitives](square.html){:target="\_blank"}
 * [Sierpinski Gasket 1](gasket1.html){:target="\_blank"}
-* [Sierpinski Gasket 1v2](gasket1v2.html){:target="\_blank"}
 * [Sierpinski Gasket 2](gasket2.html){:target="\_blank"}
 * [Sierpinski Gasket 3](gasket3.html){:target="\_blank"}
 * [Sierpinski Gasket 4](gasket4.html){:target="\_blank"}
