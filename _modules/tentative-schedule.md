@@ -13,8 +13,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-2-Image-Models.pdf){:target="_blank"}
 
 3
-: Full Program
-  : Slides
+: [Full Program](../assets/slides/CIS367-3-Full-Program.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-3-Full-Program.pdf){:target="_blank"}
 
 4
 : Shaders
