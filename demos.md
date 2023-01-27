@@ -17,7 +17,7 @@ This page aggregates all demos shown in class.  A lot of these demos will be liv
 
 These are all the WebGL-specific demos from class.  You can translate them to other libraries (e.g., three.js) - however they require some effort.  I have a few of the basics at the bottom of this page to get you started if you'd like to explore.
 
-## 1 - Introduction
+## 1 - Basic WebGL
 
 * [Hello world - basic](hello-world-basic.html){:target="\_blank"}
 * [Hello world - triangle](triangle.html){:target="\_blank"}
@@ -26,6 +26,7 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 * [Sierpinski Gasket 2](gasket2.html){:target="\_blank"}
 * [Sierpinski Gasket 3](gasket3.html){:target="\_blank"}
 * [Sierpinski Gasket 4](gasket4.html){:target="\_blank"}
+* [Circle (triangle fan)](triangle_circle.html){:target="\_blank"}
 
 ---
 
