@@ -21,8 +21,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-4-Shaders.pdf){:target="_blank"}
 
 5
-: Interaction and Animation
-  : Slides
+: [Interaction and Animation](../assets/slides/CIS367-5-Interaction-and-Animation.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-5-Interaction-and-Animation.pdf){:target="_blank"}
 
 6
 : Geometry and Transforms
