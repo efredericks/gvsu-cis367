@@ -17,7 +17,7 @@ This page aggregates all demos shown in class.  A lot of these demos will be liv
 
 These are all the WebGL-specific demos from class.  You can translate them to other libraries (e.g., three.js) - however they require some effort.  I have a few of the basics at the bottom of this page to get you started if you'd like to explore.
 
-## 1 - Basic WebGL
+## 1 - Basic WebGL and Animation/Callbacks
 
 * [Hello world - basic](hello-world-basic.html){:target="\_blank"}
 * [Hello world - triangle](triangle.html){:target="\_blank"}
@@ -29,6 +29,11 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 * [Circle (triangle fan)](triangle_circle.html){:target="\_blank"}
 * [Shaded triangle](https://efredericks.github.io/CIS367-ComputerGraphics/demos/triangle-shade.html){:target="\_blank"}
 * [jQuery callback](https://efredericks.github.io/CIS367-ComputerGraphics/demos/jqueryInput.html){:target="\_blank"}
+* [Rotating Square](https://efredericks.github.io/CIS367-ComputerGraphics/Chap3/rotatingSquare1.html){:target="\_blank"}
+* [Rotating Square 2](https://efredericks.github.io/CIS367-ComputerGraphics/Chap3/rotatingSquare2.html){:target="\_blank"}
+* [Square](https://efredericks.github.io/CIS367-ComputerGraphics/Chap3/square.html){:target="\_blank"}
+* [CAD 1](https://efredericks.github.io/CIS367-ComputerGraphics/Chap3/cad1.html){:target="\_blank"}
+* [CAD 2](https://efredericks.github.io/CIS367-ComputerGraphics/Chap3/cad2.html){:target="\_blank"}
 
 ---
 
