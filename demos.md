@@ -26,6 +26,7 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 * [Sierpinski Gasket 2](gasket2.html){:target="\_blank"}
 * [Sierpinski Gasket 3](gasket3.html){:target="\_blank"}
 * [Sierpinski Gasket 4](gasket4.html){:target="\_blank"}
+* [Sierpinski Gasket 5](https://efredericks.github.io/CIS367-ComputerGraphics/Chap3/gasket5.html){:target="\_blank"}
 * [Circle (triangle fan)](triangle_circle.html){:target="\_blank"}
 * [Shaded triangle](https://efredericks.github.io/CIS367-ComputerGraphics/demos/triangle-shade.html){:target="\_blank"}
 * [jQuery callback](https://efredericks.github.io/CIS367-ComputerGraphics/demos/jqueryInput.html){:target="\_blank"}
