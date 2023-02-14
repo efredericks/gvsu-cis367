@@ -25,8 +25,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-5-Interaction-and-Animation.pdf){:target="_blank"}
 
 6
-: Geometry and Transforms
-  : Slides
+: [Geometry and Transforms](../assets/slides/CIS367-6-Geometry-and-Transforms.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-6-Geometry-and-Transforms.pdf){:target="_blank"}
 
 7
 : Model Building and Camera
