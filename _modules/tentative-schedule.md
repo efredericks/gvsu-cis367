@@ -29,8 +29,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-6-Geometry-and-Transforms.pdf){:target="_blank"}
 
 7
-: Model Building and Camera
-  : Slides
+: [Model Building and Camera](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="_blank"}
 
 8
 : Blender Overview
