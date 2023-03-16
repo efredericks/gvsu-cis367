@@ -33,21 +33,25 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="_blank"}
 
 8
+: [Other Libraries](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="_blank"}
+
+9
 : Blender Overview
   : Slides
 
-9
+10
 : Introduction to Unity
   : Slides
 
-10
+11
 : Unity Scripting
   : Slides
 
-11
+12
 : Unity 2D
   : Slides
 
-12
+13
 : Git + Shader Graph
   : Slides
