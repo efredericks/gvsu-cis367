@@ -101,8 +101,8 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 
 1. Add an empty (axes)
 2. Parent camera to empty
-  1. Click the empty 
-  2. Hold shift, grab camera, move onto empty
+    * Click the empty 
+    * Hold shift, grab camera, move onto empty
 3. Animate empty
 
 ## Unity Demos
