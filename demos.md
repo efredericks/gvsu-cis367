@@ -97,6 +97,14 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 3. `Alt+r` (reset rotation)
 4. `g+z` (move along z-axis)
 
+### Rotate camera around object (at origin)
+
+1. Add an empty (axes)
+2. Parent camera to empty
+  1. Click the empty 
+  2. Hold shift, grab camera, move onto empty
+3. Animate empty
+
 ## Unity Demos
 
 ## Old Demos
