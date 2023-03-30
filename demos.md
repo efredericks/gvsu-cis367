@@ -105,6 +105,10 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
     * Hold shift, grab camera, move onto empty
 3. Animate empty
 
+### Fluid simulation
+
+* See: https://www.versluis.com/2022/06/creating-fluid-simulations-in-blender/
+
 ## Unity Demos
 
 ## Old Demos
