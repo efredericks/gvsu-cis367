@@ -41,8 +41,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-9-Blender-Overview.pdf){:target="_blank"}
 
 10
-: Introduction to Unity
-  : Slides
+: [Introduction to Unity](../assets/slides/CIS367-10-Intro-to-Unity.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-10-Intro-to-Unity.pdf){:target="_blank"}
 
 11
 : Unity Scripting
