@@ -45,8 +45,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-10-Intro-to-Unity.pdf){:target="_blank"}
 
 11
-: Unity Scripting
-  : Slides
+: [Unity Scripting](../assets/slides/CIS367-11-Unity-Scripting.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-11-Unity-Scripting.pdf){:target="_blank"}
 
 12
 : Unity 2D
