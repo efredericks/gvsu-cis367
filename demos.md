@@ -111,6 +111,9 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 
 ## Unity Demos
 
+* [Procedural Mesh Generation](https://catlikecoding.com/unity/tutorials/procedural-meshes/){:target="\_blank"}
+* [2D Top Down Pixel Art RPG Crash Course](https://www.youtube.com/watch?v=7iYWpzL9GkM){:target="\_blank"}
+
 ## Old Demos
 
 These demos are from a [prior incarnation of this course page](https://efredericks.github.io/CIS367-ComputerGraphics/){:target="\_blank"}.  I updated some of the Angel demos to work with newer browsers as some were broken. 
