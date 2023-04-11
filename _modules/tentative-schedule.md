@@ -49,8 +49,8 @@ title: Modules for CIS367 - Computer Graphics
   : [Slides](../assets/slides/CIS367-11-Unity-Scripting.pdf){:target="_blank"}
 
 12
-: Unity 2D
-  : Slides
+: [Unity 2D](../assets/slides/CIS367-12-Unity2D.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS367-12-Unity2D.pdf){:target="_blank"}
 
 13
 : Git + Shader Graph
