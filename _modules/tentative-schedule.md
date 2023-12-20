@@ -5,53 +5,40 @@ title: Modules for CIS367 - Computer Graphics
 *Note: see the [demos](../demos) page for in-class demonstration code.*
 
 1
-: [Introduction](../assets/slides/CIS367-1-Introduction.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-1-Introduction.pdf){:target="_blank"}
+: [Introduction](../assets/slides/CIS367-1-Introduction.pdf){:target="\_blank"}
 
 2
-: [Image Models and Triangles](../assets/slides/CIS367-2-Image-Models.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-2-Image-Models.pdf){:target="_blank"}
+: Image Models and Triangles
 
 3
-: [Full Program](../assets/slides/CIS367-3-Full-Program.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-3-Full-Program.pdf){:target="_blank"}
+: Full Program
 
 4
-: [Shaders](../assets/slides/CIS367-4-Shaders.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-4-Shaders.pdf){:target="_blank"}
+: Shaders
 
 5
-: [Interaction and Animation](../assets/slides/CIS367-5-Interaction-and-Animation.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-5-Interaction-and-Animation.pdf){:target="_blank"}
+: Interaction and Animation
 
 6
-: [Geometry and Transforms](../assets/slides/CIS367-6-Geometry-and-Transforms.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-6-Geometry-and-Transforms.pdf){:target="_blank"}
+: Geometry and Transforms
 
 7
-: [Model Building and Camera](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="_blank"}
+: Model Building and Camera
 
 8
-: [Other Libraries](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="_blank"}
+: Other Libraries
 
 9
-: [Blender Overview](../assets/slides/CIS367-9-Blender-Overview.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-9-Blender-Overview.pdf){:target="_blank"}
+: Blender Overview
 
 10
-: [Introduction to Unity](../assets/slides/CIS367-10-Intro-to-Unity.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-10-Intro-to-Unity.pdf){:target="_blank"}
+: Introduction to Unity
 
 11
-: [Unity Scripting](../assets/slides/CIS367-11-Unity-Scripting.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-11-Unity-Scripting.pdf){:target="_blank"}
+: Unity Scripting
 
 12
-: [Unity 2D](../assets/slides/CIS367-12-Unity2D.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS367-12-Unity2D.pdf){:target="_blank"}
+: Unity 2D
 
 13
 : Git + Shader Graph
-  : Slides
