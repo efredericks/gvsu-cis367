@@ -37,7 +37,7 @@ seo:
 
 ## Learning Objectives
 
-Computer graphics play a key role in many applications, from video games to advanced medical simulations. This course provides an introduction to the theory and application of computer graphics programming in both 2D and 3D. Students will use WebGL and Unity in several programming projects that will provide experience in graphics programming topics such as drawing, collision detection, user interaction, and texturing. An emphasis on practical experience with graphics concepts will be emphasized.
+Computer graphics play a key role in many applications, from video games to advanced medical simulations. This course provides an introduction to the theory and application of computer graphics programming in both 2D and 3D. Students will use WebGL and Unity (and possibly Godot) in several programming projects that will provide experience in graphics programming topics such as drawing, collision detection, user interaction, and texturing. An emphasis on practical experience with graphics concepts will be emphasized.
 
 Specifically, students will:
 
@@ -93,7 +93,7 @@ Here are a list of resources I've collected that might help out.
 
 * [Blender 3 - Complete Beginner's Guide](https://youtu.be/jnj2BL4chaQ){:target="_blank"}
 * [Blender Keybindings (may be out of date)](https://download.blender.org/documentation/BlenderHotkeyReference.pdf){:target="_blank"}
-* [Blender Keybindings](https://tekshinobi.com/blender-key-bindings/){:target="_blank"}
+* [Blender Keybindings](https://docs.blender.org/manual/en/latest/interface/keymap/introduction.html){:target="\_blank"}
 * [Blender 2D topdown camera view](https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view){:target="_blank"}
 * [Blender Liquid (from ocean/shrinkwrap modifiers)](https://www.reddit.com/r/blender/comments/zzj35t/how_to_make_real_time_liquid/){:target="_blank"}
 
