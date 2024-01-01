@@ -96,6 +96,7 @@ Here are a list of resources I've collected that might help out.
 * [Blender Keybindings](https://docs.blender.org/manual/en/latest/interface/keymap/introduction.html){:target="\_blank"}
 * [Blender 2D topdown camera view](https://blender.stackexchange.com/questions/49197/how-to-get-camera-view-like-top-view){:target="_blank"}
 * [Blender Liquid (from ocean/shrinkwrap modifiers)](https://www.reddit.com/r/blender/comments/zzj35t/how_to_make_real_time_liquid/){:target="_blank"}
+* [BlenderArtists.org - The Great Collective Geo Nodes Thread](https://blenderartists.org/t/the-great-collective-geo-nodes-thread/1493683){:target="\_blank"}
 
 ### Unity
 
