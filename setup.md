@@ -83,6 +83,12 @@ Now, if you're editing hw1-mylastname.html, it should look like this:
 
 You *should* be able to just open `hw1-mylastname.html` directly in your browser.
 
+### Boilerplate Download
+
+Here is a link to a boilerplate download you can use.  Note that I follow the directory structure above.
+
+[Boilerplate setup](/assets/CIS367.zip)
+
 ## Three.js (local)
 
 There are two main considerations when running three.js locally.  
