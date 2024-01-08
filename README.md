@@ -88,6 +88,7 @@ Here are a list of resources I've collected that might help out.
 * [The Book of Shaders](https://thebookofshaders.com/){:target="_blank"}
 * [NeHe (WebGL)](http://www.johannes-raida.de/tutorials.htm){:target="_blank"} (note: a lot of the API calls here are out of date!)
 * [Adding GLSL Shaders to Three.js](https://dev.to/maniflames/creating-a-custom-shader-in-threejs-3bhi){:target="_blank"}
+* [Shadertoy Tutorial Series](https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/){:target="\_blank"}
 
 ### Blender
 
