@@ -1,9 +1,9 @@
 ---
-title: Important Dates - Winter 2023
+title: Important Dates - Winter 2024
 ---
 
 {: .label .label-yellow } No class
-: January 16
+: January 15
   : Martin Luther King, Jr. Day Recess
 
 {: .label .label-yellow } No class
