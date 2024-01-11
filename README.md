@@ -19,6 +19,10 @@ seo:
 
 ---
 
+## Due Dates
+
+* IC1 - 01/16
+
 ## Course Description
 
 * Principles of computer graphics.
