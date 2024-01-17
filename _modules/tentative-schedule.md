@@ -11,7 +11,7 @@ title: Modules for CIS367 - Computer Graphics
 : [Image Models and Triangles](../assets/slides/CIS367-2-Image-Models.pdf){:target="\_blank"}
 
 3
-: Full Program
+: [Full Program](../assets/slides/CIS367-3-Full-Program.pdf)(:target="\_blank"}
 
 4
 : Shaders
