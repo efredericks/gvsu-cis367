@@ -14,7 +14,7 @@ title: Modules for CIS367 - Computer Graphics
 : [Full Program](../assets/slides/CIS367-3-Full-Program.pdf){:target="\_blank"}
 
 4
-: Shaders
+: [Shaders](../assets/slides/CIS367-4-Shaders.pdf){:target="\_blank"}
 
 5
 : Interaction and Animation
