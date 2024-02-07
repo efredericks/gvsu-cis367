@@ -22,6 +22,7 @@ seo:
 ## Due Dates
 
 * HW2.1 - 02/08
+* Midterm exam - 02/27
 
 ---
 

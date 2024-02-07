@@ -11,7 +11,7 @@ title: Important Dates - Winter 2024
   : Spring break
 
 {: .label .label-red } Exam
-: February 23
+: February 27 ~~23~~
   : Midterm exam
 
 {: .label .label-purple } Deliverable
