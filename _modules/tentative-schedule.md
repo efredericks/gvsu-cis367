@@ -23,7 +23,7 @@ title: Modules for CIS367 - Computer Graphics
 : [Geometry and Transforms](../assets/slides/CIS367-6-Geometry-and-Transforms.pdf){:target="\_blank"}
 
 7
-: Model Building and Camera
+: [Model Building and Camera](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="\_blank"}
 
 8
 : Other Libraries
