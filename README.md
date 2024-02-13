@@ -21,7 +21,7 @@ seo:
 
 ## Due Dates
 
-* HW2.1 - 02/08
+* IC4 - 02/14
 * HW2.2 - 02/16
 * Midterm exam - 02/27
 
