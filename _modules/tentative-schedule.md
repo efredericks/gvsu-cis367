@@ -26,7 +26,7 @@ title: Modules for CIS367 - Computer Graphics
 : [Model Building and Camera](../assets/slides/CIS367-7-Model-Building-and-Camera.pdf){:target="\_blank"}
 
 8
-: [Other Libraries](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="\_blank"}
+: [Other Libraries (updated 02/28)](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="\_blank"}
 
 9
 : Blender Overview
