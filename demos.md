@@ -109,6 +109,10 @@ These are all the WebGL-specific demos from class.  You can translate them to ot
 
 * See: https://www.versluis.com/2022/06/creating-fluid-simulations-in-blender/
 
+### Reuse node groups
+
+* See: [Blender StackExchange](https://blender.stackexchange.com/questions/33576/how-do-you-import-a-compositing-node-set-up){:target="\_blank"}
+
 ## Unity Demos
 
 * [Procedural Mesh Generation](https://catlikecoding.com/unity/tutorials/procedural-meshes/){:target="\_blank"}
