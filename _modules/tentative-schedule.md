@@ -29,7 +29,8 @@ title: Modules for CIS367 - Computer Graphics
 : [Other Libraries (updated 02/28)](../assets/slides/CIS367-8-Other-Libraries.pdf){:target="\_blank"}
 
 9
-: Blender Overview
+: [Blender Overview](../assets/slides/CIS367-9-Blender-Overview.pdf){:target="\_blank"}
+: [More Blender](../assets/slides/CIS367-10-More-Blender.pdf){:target="\_blank"}
 
 10
 : Introduction to Unity
