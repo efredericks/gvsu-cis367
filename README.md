@@ -23,6 +23,12 @@ seo:
 
 * HW3 - 03/28
 
+* Term project presentation materials - April 15th/17th
+
+* Term project presentations - April 16th/18th
+
+* Term project deliverables - April 20th
+
 ---
 
 ## Course Description
