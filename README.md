@@ -21,6 +21,8 @@ seo:
 
 ## Due Dates
 
+* IC6 - 03/27
+
 * HW3 - 03/28
 
 * Term project presentation materials - April 15th/17th
