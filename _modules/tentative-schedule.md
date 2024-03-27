@@ -33,7 +33,7 @@ title: Modules for CIS367 - Computer Graphics
 : [More Blender](../assets/slides/CIS367-10-More-Blender.pdf){:target="\_blank"}
 
 10
-: Introduction to Unity
+: [Introduction to Unity](../assets/slides/CIS367-11-Intro-to-Unity.pdf){:target="\_blank"}
 
 11
 : Unity Scripting
