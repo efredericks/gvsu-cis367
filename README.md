@@ -21,9 +21,9 @@ seo:
 
 ## Due Dates
 
-* IC6 - 03/27
+* HW4 - 04/10
 
-* HW3 - 03/28
+* Blender EC - 04/12
 
 * Term project presentation materials - April 15th/17th
 
