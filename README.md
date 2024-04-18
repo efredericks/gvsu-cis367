@@ -21,15 +21,9 @@ seo:
 
 ## Due Dates
 
-* HW4 - 04/10
-
-* Blender EC - 04/12
-
-* Term project presentation materials - April 15th/17th
-
-* Term project presentations - April 16th/18th
-
 * Term project deliverables - April 20th
+
+* Final exam - April 23rd @ 12pm
 
 ---
 
