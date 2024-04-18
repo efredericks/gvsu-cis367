@@ -23,5 +23,5 @@ title: Important Dates - Winter 2024
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: April 25 @ 12:00pm - 1:50pm
+: April 23 @ 12:00pm - 1:50pm
   : Final exam
